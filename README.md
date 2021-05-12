@@ -1,12 +1,7 @@
 # DFRobot_YJY
-这是一个最简单的arduino库
 
 没有实例图片
 
-
-## 产品链接（链接到英文商城）
-    SKU：产品名称
-   
 ## Table of Contents
 
 * [Summary](#summary)
